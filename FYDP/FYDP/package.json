@@ -1,0 +1,13 @@
+{
+  "name": "FYDP",
+  "version": "0.0.0",
+  "description": "FYDP",
+  "main": "server.js",
+  "author": {
+    "name": "Nicholas Dinh",
+    "email": ""
+  },
+  "dependencies": {
+    "request": "^2.73.0"
+  }
+}
